@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoc, Heidelberg University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Centre for Organismal Studies</p>
-    <p>123 Im Neuenheimer Feld 230 </p>
-    <p>Your Heidelberg </p>
+    <p>Centre for Organismal Studies</p>
+    <p>Im Neuenheimer Feld 230 </p>
+    <p>Heidelberg </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
